@@ -1,0 +1,32 @@
+# Modelos pesados (>100 MB, no entran en GitHub)
+_render/robot.obj
+_render/robot.mtl
+_render/robot_import.blend
+*.blend1
+
+# Dependencias y temporales
+node_modules/
+tmp/
+**/tmp/
+_preview/
+
+# Exportaciones de revisión (se regeneran)
+_glass_deck/png/
+_glass_deck/png2/
+_glass_deck/sheet*.jpg
+_glass_deck/check*.jpg
+_glass_deck/renders_sheet.jpg
+_glass_deck/glass.pptx
+_glass_deck/ui/ui_celular_raw.png
+_glass_deck/ui/check.jpg
+_glass_deck/gen/bg_glass.png
+_glass_deck/gen/bg_glass_hero.png
+_glass_deck/gen/bg.png
+
+# Metadatos vacíos de renders
+*.png.json
+
+# Sistema
+Thumbs.db
+desktop.ini
+~$*

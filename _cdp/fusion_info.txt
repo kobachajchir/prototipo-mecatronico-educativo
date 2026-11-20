@@ -1,0 +1,5 @@
+workspace=FusionSolidEnvironment
+bodies=0 occurrences=6910
+bbox_mm=-175.5,-120.0,-52.7 -> 152.7,120.0,152.0
+vstyle=0
+saved=True

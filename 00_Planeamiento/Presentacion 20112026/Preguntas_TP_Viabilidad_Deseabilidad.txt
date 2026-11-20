@@ -1,0 +1,554 @@
+TRABAJO PRÁCTICO INTEGRADOR – VIABILIDAD Y DESEABILIDAD
+Cuestionario completo extraído de la plantilla:
+TP_Viabilidad_Deseabilidad_PLANTILLA_ESTUDIANTES_CHAJCHIR.xlsx
+(Las preguntas siguen el orden de las hojas, de la 00 en adelante. Se incluyen
+todas las celdas a completar —amarillas— de cada hoja. Los valores calculados
+automáticamente —grises— se indican como "AUTO" para saber de dónde salen.)
+
+Código de colores de la plantilla:
+  - AMARILLO: dato/decisión a completar (valor, fuente o respuesta). Ej.: precio, costo, evidencia.
+  - VERDE: dato validado / respuesta del caso resuelto (leer como referencia).
+  - GRIS: cálculo automático, no modificar. Ej.: PE, VAN, TIR, VEA.
+  - ROJO: alerta, revisar el supuesto o la decisión. Ej.: ventas por debajo del PE.
+
+======================================================================
+HOJA 00 – EMPEZAR AQUÍ (Recorrido de trabajo)
+======================================================================
+Para cada paso, indicar el ESTADO (Pendiente / En proceso / Listo):
+
+0.1  Paso 1 – ¿Hay un problema valioso para alguien?
+     Hoja: 01_CLIENTE_PROBLEMA | Resultado esperado: cliente + problema + evidencia
+     Conceptos: deseabilidad, BMC.  -> Estado: ______
+0.2  Paso 2 – ¿Cómo sería el negocio?
+     Hoja: 02_MODELO_NEGOCIO | Resultado esperado: Lean Canvas completo
+     Conceptos: problema, solución, ingresos, costos.  -> Estado: ______
+0.3  Paso 3 – ¿Cada venta deja dinero?
+     Hoja: 03_NUMEROS_NEGOCIO | Resultado esperado: margen + punto de equilibrio
+     Conceptos: CF, CV, contribución, PE.  -> Estado: ______
+0.4  Paso 4 – ¿Vale la pena invertir?
+     Hoja: 04_INVERSION_Y_FLUJO | Resultado esperado: flujo + VAN/TIR/VEA
+     Conceptos: valor tiempo, inversión, deuda.  -> Estado: ______
+0.5  Paso 5 – ¿Qué decidimos?
+     Hoja: 05_DECISION_FINAL | Resultado esperado: avanzar / reformular / descartar
+     Conceptos: deseabilidad, factibilidad, viabilidad.  -> Estado: ______
+
+======================================================================
+HOJA 01 – CLIENTE Y PROBLEMA
+======================================================================
+Objetivo: comprender el negocio del cliente y verificar si el problema es
+suficientemente relevante como para justificar una solución.
+
+--- A. BUSINESS MODEL CANVAS DEL CLIENTE – bloques prioritarios ---
+(Para cada bloque: RESPUESTA + FUENTE / EVIDENCIA)
+
+1.1  Actividades clave: ¿Qué proceso o actividad puede mejorar la solución?
+     Respuesta: ______
+     Fuente / evidencia: ______
+1.2  Recursos clave: ¿Qué equipos, personas, datos o capacidades condicionan ese proceso?
+     Respuesta: ______
+     Fuente / evidencia: ______
+1.3  Estructura de costos: ¿Qué costos o pérdidas están asociados al problema?
+     Respuesta: ______
+     Fuente / evidencia: ______
+1.4  Fuentes de ingresos: ¿Cómo genera ingresos/margen el cliente?
+     Respuesta: ______
+     Fuente / evidencia: ______
+1.5  Impacto de la solución: ¿Reduce costos, evita pérdidas, aumenta capacidad
+     vendible o reduce riesgo?
+     Respuesta: ______
+     Fuente / evidencia: ______
+
+--- Variables críticas (para cada una: VALOR + ESTADO) ---
+1.6  Valor anual del problema:          Valor: ______  Estado: ______
+1.7  Precio de la solución:             Valor: ______  Estado: ______
+1.8  Principal restricción técnica:     Valor: ______  Estado: ______
+1.9  Principal objeción comercial:      Valor: ______  Estado: ______
+1.10 Dato a verificar primero:          Valor: ______  Estado: ______
+
+--- B. CONSULTA A CLIENTE / USUARIO / DECISOR POTENCIAL ---
+(Para cada pregunta: RESPUESTA/EVIDENCIA + QUÉ HIPÓTESIS CONTRASTA + QUÉ CAMBIÓ DESPUÉS)
+
+1.11 ¿Cómo resuelven hoy el problema y qué les cuesta hacerlo?
+     Respuesta / evidencia: ______
+     Qué hipótesis contrasta: ______
+     Qué cambió después: ______
+1.12 ¿Qué consecuencias genera: costo, tiempo, calidad, ventas, riesgo u otras?
+     Respuesta / evidencia: ______
+     Qué hipótesis contrasta: ______
+     Qué cambió después: ______
+1.13 ¿Quién usa, quién decide y quién paga?
+     Respuesta / evidencia: ______
+     Qué hipótesis contrasta: ______
+     Qué cambió después: ______
+1.14 ¿Qué tendría que lograr una solución para que valga la pena?
+     Respuesta / evidencia: ______
+     Qué hipótesis contrasta: ______
+     Qué cambió después: ______
+1.15 ¿Qué objeción o restricción ve para implementarla?
+     Respuesta / evidencia: ______
+     Qué hipótesis contrasta: ______
+     Qué cambió después: ______
+1.16 ¿Qué recupero o resultado económico esperaría?
+     Respuesta / evidencia: ______
+     Qué hipótesis contrasta: ______
+     Qué cambió después: ______
+
+======================================================================
+HOJA 02 – MODELO DE NEGOCIO (Lean Canvas completo)
+======================================================================
+Completar los 9 bloques. Cuando algo no esté validado, marcarlo como
+HIPÓTESIS y explicar qué evidencia falta.
+
+2.1  Problema: ¿Cuáles son los principales problemas y cómo se resuelven hoy?
+     Desarrollo: ______
+2.2  Segmento / early adopter: ¿Quién usa, decide y podría comprar primero?
+     Desarrollo: ______
+2.3  Propuesta de valor única: ¿Qué resultado diferencial prometemos y para quién?
+     Desarrollo: ______
+2.4  Solución: ¿Qué características mínimas permiten entregar ese valor?
+     Desarrollo: ______
+2.5  Canales: ¿Cómo nos conocerán, evaluarán, comprarán y recibirán?
+     Desarrollo: ______
+2.6  Flujos de ingresos: ¿Cómo cobramos? Precio, unidad y recurrencia.
+     Desarrollo: ______
+2.7  Estructura de costos: ¿Qué costos variables, fijos e inversiones requiere?
+     Desarrollo: ______
+2.8  Métricas clave: ¿Qué medimos para saber si funciona?
+     Desarrollo: ______
+2.9  Ventaja diferencial: ¿Por qué elegirían esta propuesta?
+     Desarrollo: ______
+2.10 HIPÓTESIS CRÍTICA A TESTEAR PRIMERO: ¿Cuál es?
+     Respuesta: ______
+
+======================================================================
+HOJA 03 – NÚMEROS DEL NEGOCIO
+======================================================================
+Secuencia: unidad de venta -> precio -> costos variables -> contribución ->
+costos fijos -> punto de equilibrio.
+(Para cada dato: VALOR + FUENTE)
+
+--- Datos básicos ---
+3.1  ¿Cuál es la unidad de venta principal?        Valor: ______  Fuente: ______
+3.2  ¿Cuántas unidades se esperan vender en el año 1?  Valor: ______  Fuente: ______
+3.3  ¿Cuál es el precio por unidad?                Valor: ______  Fuente: ______
+3.4  ¿Cuál es el valor anual recibido por 1 cliente?  Valor: ______  Fuente: ______
+
+--- Costo variable por unidad ---
+3.5  Componentes / materiales:     Valor: ______  Fuente: ______
+3.6  Fabricación / instalación:    Valor: ______  Fuente: ______
+3.7  Logística / traslado:         Valor: ______  Fuente: ______
+3.8  Otros variables:              Valor: ______  Fuente: ______
+     TOTAL CV UNITARIO (AUTO = suma 3.5 a 3.8): ______
+
+--- Costo fijo anual ---
+3.9  Alquiler / servicios:         Valor: ______  Fuente: ______
+3.10 Software / comunicaciones:    Valor: ______  Fuente: ______
+3.11 Administración:               Valor: ______  Fuente: ______
+3.12 Comercialización fija:        Valor: ______  Fuente: ______
+3.13 Otros fijos:                  Valor: ______  Fuente: ______
+     TOTAL COSTOS FIJOS (AUTO = suma 3.9 a 3.13): ______
+
+--- Indicadores (AUTO, para verificar e interpretar) ---
+     Precio = 3.3
+     Costo variable unitario = Total CV unitario
+     Contribución unitaria = Precio – CV unitario
+     Margen de contribución = Contribución unitaria / Precio
+     Costos fijos = Total costos fijos
+     Punto de equilibrio (unid.) = CF / Contribución unitaria
+     Ventas esperadas = 3.2
+     Margen de seguridad = 1 – PE / Ventas esperadas
+3.14 Interpretación: ¿Cuánto aporta cada venta para cubrir costos fijos y luego
+     generar resultado?  ______
+3.15 Interpretación: ¿Cuál es el punto de equilibrio y cuántas ventas completas
+     (redondeado hacia arriba) se necesitan como mínimo?  ______
+3.16 Interpretación: ¿Cuál es el margen de seguridad? ¿Las ventas esperadas
+     quedan por debajo del PE (ALERTA)?  ______
+
+======================================================================
+HOJA 04 – INVERSIÓN, FLUJO Y FINANCIAMIENTO
+======================================================================
+Analizar primero el PROYECTO PURO. Luego comparar cómo la DEUDA cambia la
+rentabilidad del inversor.
+
+--- Capital inicial (VALOR + FUENTE) ---
+4.1  Herramientas / equipamiento:   Valor: ______  Fuente: ______
+4.2  Desarrollo / prototipo:        Valor: ______  Fuente: ______
+4.3  Otros activos:                 Valor: ______  Fuente: ______
+4.4  Capital de trabajo:            Valor: ______  Fuente: ______
+     CAPITAL TOTAL (AUTO = suma 4.1 a 4.4): ______
+
+--- Supuestos ---
+4.5  ¿Cuál es el costo de oportunidad / tasa de descuento (k)?  Valor: ______
+     (Nota de la plantilla: en el caso de referencia se usó una tasa real exigida
+     del 25% anual en ARS constantes, supuesto del autor; justificación pendiente:
+     contrastar con alternativas de inversión del mismo riesgo y ver la
+     sensibilidad 15%–35%.) Justificación de tu tasa: ______
+4.6  ¿Cuál es el crecimiento anual de unidades?  Valor: ______
+     (Nota: en el caso de referencia se supusieron 5, 6, 7, 8, 9 unidades, ≈ +15%
+     anual en unidades enteras, sin respaldo comercial todavía.)
+     Respaldo de tu supuesto: ______
+4.7  ¿Cuál es el valor residual de los activos (% o monto)?  Valor: ______
+     (Nota: en el caso de referencia, 10% del valor de los activos fijos más el
+     recupero del capital de trabajo en el Año 5.)
+     Valor futuro de $100 en 5 años (AUTO = 100·(1+k)^5): ______
+
+--- Flujo de fondos, Año 0 a Año 5 (AUTO, verificar coherencia) ---
+     Unidades vendidas (Año 1 = 3.2; siguientes crecen según 4.6)
+     (Nota: la plantilla de referencia redondea a unidades enteras; con la
+     fórmula original sin redondeo se obtienen unidades fraccionarias.)
+     Precio unitario (= 3.3)
+     Flujo operativo = Unidades × (Precio – CV unitario) – Costos fijos
+     Inversión activos (Año 0 = –(4.1+4.2+4.3))
+     Capital de trabajo (Año 0 = –4.4)
+     Residual + recupero CT (Año 5 = activos × 4.7 + capital de trabajo)
+     FLUJO NETO
+4.8  ¿El flujo es coherente con lo cargado en las hojas 03 y 04? ¿Qué observás
+     en cada año?  ______
+
+--- Indicadores (AUTO, interpretar) ---
+     VAN proyecto, TIR proyecto, Resultado operativo año 1, ROIC simplificado
+     (= Resultado operativo año 1 / Capital total), VEA simplificado
+     (= Resultado operativo año 1 – Capital total × k).
+4.9  ¿Cuánto valor crea el proyecto sobre la tasa exigida (VAN)?  ______
+4.10 ¿Qué rentabilidad implícita tiene el flujo (TIR) y cómo se compara con k?  ______
+4.11 ¿La ganancia remunera el capital (ROIC y VEA)?  ______
+
+--- Financiamiento (VALOR + FUENTE) ---
+4.12 ¿Qué % de los activos se financia con deuda?  Valor: ______  Fuente: ______
+4.13 ¿Cuál es la tasa anual de la deuda?           Valor: ______  Fuente: ______
+4.14 ¿Cuál es el plazo del préstamo (años)?        Valor: ______  Fuente: ______
+     Monto del préstamo (AUTO = activos × 4.12): ______
+     Comparación (AUTO): costo deuda, TIR proyecto, cuota anual, TIR inversor,
+     efecto de la deuda (= TIR inversor – TIR proyecto).
+     Flujo inversor Año 0–5 (AUTO): Proyecto + Deuda = Inversor.
+     (Gráfico: "Flujo Neto: Proyecto Puro vs. Inversor (ARS)".)
+4.15 ¿Qué cambia para el inversor al tomar deuda respecto del proyecto puro?  ______
+
+--- ANEXO – Influencia de las tasas y del volumen (sensibilidad) ---
+Tasa de descuento (VAN proyecto puro AUTO para cada tasa):
+4.16 ¿Qué tasa menor vas a analizar? (Menor tasa: sube el VAN)  Tasa k: ______
+     Tasa base = 4.5 (costo de oportunidad base)
+4.17 ¿Qué tasa mayor vas a analizar? (Mayor tasa: baja el VAN)  Tasa k: ______
+     (Gráfico: "Sensibilidad del VAN según Tasa (k)".)
+
+Costo de la deuda (cuota anual, TIR inversor y TIR proyecto puro AUTO):
+     Préstamo base: tasa = 4.13
+4.18 ¿Qué tasa tendría un préstamo más caro?  Tasa préstamo: ______
+     Flujo inversor (préstamo más caro), Año 0–5: AUTO.
+
+Ventas anuales constantes (VAN con k base, resultado operativo anual y VEA anual AUTO):
+4.19 Escenario de volumen 1: ¿cuántas unidades (nodos) por año?  ______
+4.20 Escenario de volumen 2: ¿cuántas unidades (nodos) por año?  ______
+4.21 Escenario de volumen 3: ¿cuántas unidades (nodos) por año?  ______
+     Unidades/año con VAN = 0 (volumen constante): AUTO.
+4.22 Lectura: comparar el punto de equilibrio operativo (unidades/año) con el
+     volumen constante a partir del cual el VAN es positivo con la tasa k.
+     ¿Por qué la TIR del proyecto puro no cambia al encarecer la deuda y la del
+     inversor sí?  ______
+
+======================================================================
+HOJA 05 – DECISIÓN FINAL
+======================================================================
+La conclusión debe conectar evidencia, restricciones y números. No alcanza con
+decir VAN positivo o TIR alta.
+(Para cada dimensión: ESTADO (Verde / Amarillo / Rojo) + FUNDAMENTO + QUÉ FALTA VERIFICAR)
+
+5.1  Deseabilidad: ¿Existe un problema valioso y alguien dispuesto a actuar?
+     Indicador/evidencia: consulta + valor del problema
+     Estado: ______  Fundamento: ______  Qué falta verificar: ______
+5.2  Factibilidad: ¿Puede construirse/entregarse/sostenerse?
+     Indicador/evidencia: restricciones técnicas/operativas
+     Estado: ______  Fundamento: ______  Qué falta verificar: ______
+5.3  Viabilidad: ¿Genera caja y remunera capital?
+     Indicador/evidencia: PE + VAN + TIR + VEA
+     Estado: ______  Fundamento: ______  Qué falta verificar: ______
+
+--- Resultados (AUTO): PE, VAN, TIR proyecto, VEA simplificado ---
+--- Conclusión ejecutiva ---
+5.4  Driver de valor: ¿Cuál es?  ______
+5.5  Restricción principal: ¿Cuál es?  ______
+5.6  Supuesto crítico: ¿Cuál es?  ______
+5.7  Próxima evidencia: ¿Qué hay que conseguir a continuación?  ______
+5.8  Decisión final (Avanzar / Reformular / Descartar) y por qué:  ______
+
+--- Aplicación de Conceptos Económico-Financieros al Caso (Sec. 6 TPI) ---
+(En la plantilla, cada concepto trae entre paréntesis los valores del caso de
+referencia; reemplazarlos por los valores propios.)
+5.9  CV vs. CF: ¿Cuál es el costo variable unitario frente al costo fijo anual y
+     qué implica?  (Referencia: CV $160k vs. CF $660k/año)  ______
+5.10 Contribución: ¿Cuál es la contribución unitaria y el margen de contribución
+     y qué significan?  (Referencia: $220k | 57,9%)  ______
+5.11 Punto de equilibrio: ¿Cuántas unidades y cómo se interpreta?
+     (Referencia: 3,0 nodos)  ______
+5.12 VAN: ¿Cuál es y a qué tasa? ¿Qué significa?
+     (Referencia: $1.422.746 al 25%)  ______
+5.13 TIR y VEA: ¿Cuáles son y qué indican?
+     (Referencia: TIR 79,29% y VEA +$240k)  ______
+5.14 Tasas y deuda: ¿Cómo influyen la tasa de descuento y el costo de la deuda
+     en el proyecto puro y en el inversor?  ______
+5.15 Síntesis / comentario general de la aplicación de conceptos (recuadro libre
+     a la izquierda de la sección):  ______
+     Autor / carrera / moneda utilizada: ______
+     (Referencia: "Gonzalo Nicolás Rodríguez — Ingeniería Mecatrónica (FCAL -
+     UNER) | Moneda constante (ARS)".)
+
+======================================================================
+HOJA 06 – GUÍA RÁPIDA DE CONCEPTOS Y BIBLIOGRAFÍA (referencia, sin campos a completar)
+======================================================================
+Se transcribe para responder las preguntas anteriores (pregunta simple – idea clave – hoja – fuente):
+6.1  Costo variable: ¿Qué gasto aparece al vender una unidad más? – Cambia con el
+     volumen. – Hoja 03 – Lledó, Cap. 3 (Campus).
+6.2  Costo fijo: ¿Qué gasto existe aunque no venda? – No depende de cada unidad
+     vendida en el rango. – Hoja 03 – Material de cátedra, Tema II (Campus).
+6.3  Punto de equilibrio: ¿Cuánto debo vender para no perder? – CF / contribución
+     unitaria. – Hoja 03 – Lledó, Cap. 9 (Campus).
+6.4  Valor tiempo del dinero: ¿Por qué $100 hoy no son $100 futuros? – El capital
+     tiene costo de oportunidad. – Hoja 04 – Lledó, Cap. 8 (Campus).
+6.5  VAN: ¿Cuánto valor crea sobre la tasa exigida? – Trae flujos futuros a valor
+     presente. – Hoja 04 – Lledó, Cap. 8 (Campus).
+6.6  TIR: ¿Qué rentabilidad implícita tiene el flujo? – Compararla con tasa
+     mínima exigida. – Hoja 04 – Lledó, Cap. 8 (Campus).
+6.7  VEA simplificado: ¿La ganancia remunera el capital? – Resultado operativo –
+     cargo por capital. – Hoja 04 – Definición operativa de cátedra, TP
+     (Plantilla). Nota: no confundir con VAE de Lledó.
+6.8  Deuda: ¿Qué cambia para el inversor? – Separar proyecto puro e inversor. –
+     Hoja 04 – Lledó, Cap. 2.1 y 7 (Campus).
+6.9  Lean Canvas: ¿Cómo conecto problema, cliente y negocio? – Completar 9 bloques
+     como hipótesis. – Hoja 02 – EPT Jaén
+     (https://eptjaen.wordpress.com/2020/09/14/lean-canvas/).
+6.10 BMC: ¿Cómo funciona el negocio del cliente? – Foco en actividades, recursos,
+     costos, ingresos e impacto. – Hoja 01 – Innokabi
+     (https://innokabi.com/canvas-de-modelo-de-negocio/).
+
+======================================================================
+HOJA 07 – RÚBRICA / CRITERIOS DE EVALUACIÓN (referencia, sin campos a completar)
+======================================================================
+Usar como checklist antes de entregar:
+7.1  Deseabilidad y consulta (20%) – Hoja 01: ¿Hay cliente concreto, problema real,
+     consulta/feedback y valor del problema?
+7.2  BMC del cliente (10%) – Hoja 01: ¿Se comprenden actividades, recursos,
+     costos, ingresos e impacto?
+7.3  Lean Canvas (15%) – Hoja 02: ¿Están los 9 bloques completos, coherentes y con
+     hipótesis explícitas?
+7.4  Economía unitaria y PE (15%) – Hoja 03: ¿Precio, CV, CF, contribución y PE
+     son correctos y están interpretados?
+7.5  Inversión, flujo, VAN/TIR (15%) – Hoja 04: ¿El flujo es coherente y se
+     comprende el valor tiempo del dinero?
+7.6  Capital, VEA y deuda (10%) – Hoja 04: ¿Se trabajan costo de oportunidad, VEA
+     y separación proyecto/inversor?
+7.7  Decisión profesional (15%) – Hoja 05: ¿Están driver, restricción, supuesto
+     crítico y próxima evidencia?
+Nota de la cátedra: un proyecto reformulado o descartado puede obtener una
+excelente evaluación si la decisión está bien fundamentada. La calidad del
+análisis pesa más que obtener indicadores positivos.
+
+======================================================================
+RESPUESTAS Y RESUMEN DE LA CONVERSACIÓN
+======================================================================
+# Respuestas — Viabilidad y deseabilidad
+
+## 1.1 ¿Qué proceso o actividad del cliente puede mejorar la solución?
+
+El aprendizaje de mapeos 3D, el trabajo con datos LiDAR, el diseño y la construcción de un robot, la interoperabilidad entre arquitecturas, el diseño web y el diseño de interfaces.
+
+Fuente / evidencia: pendiente.
+
+## ¿Qué tan grave o costoso es el problema hoy para ese cliente?
+
+El proyecto es académico y está centrado en educar. No se plantea que el problema sea grave, sino que existe margen de mejora en la educación. El costo y su magnitud todavía no están determinados.
+
+## 1.2 ¿Qué equipos, personas, datos o capacidades condicionan ese proceso?
+
+Se necesitan el prototipo que está construyendo el autor y una computadora para recibir y procesar los datos.
+
+Fuente / evidencia: respuesta del autor; pendiente de documentar.
+
+## 1.3 ¿Qué costos o pérdidas están asociados al problema?
+
+No se identificó todavía un costo o una pérdida económica. Como posibilidad, podría haber poca práctica; el prototipo permitiría implementar elementos mecatrónicos para comprender su funcionamiento. También quedaría disponible para representar a la carrera en presentaciones, ferias y otros eventos donde normalmente no hay una demostración en funcionamiento.
+
+Fuente / evidencia: apreciación del autor; falta contrastar la disponibilidad de prácticas y demostraciones.
+
+## Destinatarios: ¿quiénes serían los principales destinatarios del prototipo?
+
+Los docentes y los estudiantes, para que puedan trabajar con el prototipo.
+
+## 1.4 ¿Cómo genera ingresos o margen el cliente?
+
+Pendiente. La pregunta sobre destinatarios se adaptó al contexto académico y no determina las fuentes de ingresos de la institución.
+
+## 1.5 ¿Qué impacto tendría la solución?
+
+Permitiría clases más dinámicas y con mayor práctica, integrando distintos pilares de la carrera. Los estudiantes podrían contrastar la teoría mediante ensayos prácticos y poner en práctica lo que saben y van aprendiendo.
+
+Fuente / evidencia: expectativa del autor; pendiente de contrastar con docentes y estudiantes.
+
+## 1.6 Valor anual del problema: ¿cómo estimar el valor de contar con más prácticas y con el prototipo para eventos?
+
+Valor: todavía no hay una estimación. El autor propone presentar la idea a los estudiantes mediante un cuestionario y analizar estadísticamente sus respuestas.
+
+Estado: pendiente; definir qué se medirá y cómo se traduciría, si corresponde, a un valor anual.
+
+## 1.7 Precio de la solución: ¿se venderá el prototipo o se entregará a la carrera?
+
+Valor: no se estableció un precio de venta. El autor pretende entregar el prototipo a la carrera; le gustaría recibir ayuda económica de la facultad para costearlo, aunque está dispuesto a financiarlo de forma privada.
+
+Estado: intención del autor; financiamiento institucional pendiente de consultar.
+
+## 1.8 ¿Cuál es la principal dificultad o restricción técnica?
+
+La principal dificultad prevista es conseguir las piezas en el país. El autor considera que el resto puede realizarse, aunque todavía debe aprender a hacerlo durante el desarrollo.
+
+Estado: apreciación inicial; disponibilidad de piezas y factibilidad técnica pendientes de verificar.
+
+## 1.9 ¿Qué objeción o dificultad podría plantear la facultad?
+
+El autor considera que la facultad podría no aprobar el proyecto si no percibe una utilidad real, no considera necesario cambiar la forma de enseñar, o entiende que la propuesta no aporta o no tiene sustento.
+
+Estado: objeción hipotética; pendiente de consultar con la facultad.
+
+## 1.10 ¿Qué dato es más importante verificar primero?
+
+El interés de los estudiantes en cambiar la situación y hacer la carrera más práctica.
+
+Estado: pendiente de consultar a los estudiantes.
+
+## 1.11 ¿Cómo se realizan hoy las prácticas relacionadas con robótica y mecatrónica?
+
+El autor indica que conoce las prácticas actuales porque es estudiante de robótica y mecatrónica. La descripción de cómo se realizan queda pendiente.
+
+Evidencia: experiencia directa del autor como estudiante. Hipótesis contrastada y cambios posteriores: pendientes.
+
+### Ampliación de 1.11: ¿cómo son actualmente esas prácticas?
+
+Según la experiencia del autor, hay pocas actividades prácticas y percibe poca iniciativa de los profesores de práctica para realizarlas. Considera que usar y programar un robot podría hacer el aprendizaje más entretenido, parecido a un juego, y reducir la carga del docente. El prototipo proporcionaría material para estudiar distintas partes de la carrera y una base que los estudiantes podrían ampliar a medida que aprendan y tengan iniciativa.
+
+Evidencia: experiencia y valoración del autor como estudiante. Las percepciones sobre docentes y los beneficios esperados requieren contrastarse con otras personas.
+
+## 1.12 ¿Qué consecuencias tiene para los estudiantes contar con pocas actividades prácticas?
+
+Según la experiencia del autor, se dificulta vincular la teoría con la práctica, algo que considera esencial para desarrollar conocimientos. Percibe desmotivación y poco disfrute de los trabajos prácticos, y una baja participación en su realización. Plantea como hipótesis que hacerlos más dinámicos, entretenidos y prácticos podría mejorar el interés y la participación.
+
+Evidencia: experiencia y percepción del autor; participación y efecto de la propuesta pendientes de contrastar.
+
+## Propuesta de consulta
+
+El autor propone una encuesta en Google Forms por su comodidad, rapidez y posible alcance. Las preguntas y la distribución quedan pendientes.
+
+## 1.13 ¿Quién decidiría incorporar el prototipo a las clases?
+
+El autor considera que lo decidiría el cuerpo docente de cada materia, incluidos el jefe de cátedra y el profesor de prácticas.
+
+Estado: pendiente de confirmar con los docentes. Usuarios previstos: docentes y estudiantes. Financiamiento: pendiente de definir.
+
+## 1.14 ¿Qué tendría que lograr el prototipo para que los docentes consideren que vale la pena incorporarlo a sus clases?
+
+Ser fácil e intuitivo de usar y eficaz en sus funciones: realizar mediciones y lecturas correctas y calcular la odometría eficazmente. Debería ofrecer herramientas que simplifiquen su uso y permitan comprobaciones o ensayos útiles para las materias. También debería poder mejorarse, ser de código abierto y desarrollarse con buenas prácticas que sirvan como modelo.
+
+Estado: requisitos propuestos por el autor; pendientes de contrastar con docentes y de comprobar en el prototipo.
+
+## 1.15 ¿Qué dificultad podrían tener los docentes para implementar el prototipo?
+
+El autor no prevé dificultades importantes aparte de la iniciativa y disposición de los docentes: considera que el proyecto involucra distintas ramas de la mecatrónica aplicables a las materias. Es una apreciación pendiente de consultar con el cuerpo docente.
+
+## Uso previsto de la encuesta
+
+El autor usaría sus resultados para valorar si la propuesta tiene una razón de existir o responde solamente a una apreciación propia, y para aportar información a la evaluación de su factibilidad y viabilidad. La encuesta por sí sola no determina los aspectos técnicos y económicos.
+
+## 1.16 ¿Cómo se reconocería que el prototipo fue útil para la carrera?
+
+El autor espera contribuir a formar mejores profesionales, con mayor motivación e incentivo para poner en práctica los conocimientos aprendidos.
+
+Estado: resultado esperado; faltan indicadores y evidencia para evaluarlo. No se ha estimado un recupero económico.
+
+## 2.1 ¿Cuál es el problema principal que busca atender el proyecto?
+
+Mejorar las clases prácticas y la integración de la teoría con la práctica mediante la utilización de un sistema mecatrónico.
+
+Estado: formulación del autor; pendiente de contrastar con estudiantes y docentes.
+
+## 2.2 ¿En qué materias o actividades podría utilizarse el prototipo?
+
+El autor propone, entre otras posibilidades:
+
+- Microcontroladores: desarrollar software que controle el prototipo y comprender su funcionamiento.
+- Robótica II: estudiar odometría, matemáticas y cálculo de trayectorias.
+- Sistemas mecatrónicos: lectura e integración de sensores y sistemas de comunicación.
+- Sistemas de control: ajustar el PID y lograr control fino de motores.
+- Mecanismos: calcular fuerzas y esfuerzos.
+- Tecnología industrial: escanear y reproducir objetos 3D, utilizar herramientas CAD y diseñar y montar nuevos módulos y componentes.
+
+Estado: ejemplos de aplicación propuestos por el autor; pendientes de contrastar con docentes y con las capacidades efectivas del prototipo. No se eligió todavía una materia inicial única.
+
+## ¿Qué costos directos identificás para construir el prototipo?
+
+El autor identifica como único costo monetario directo el de los componentes. El monto y el detalle de componentes quedan pendientes.
+
+## ¿Cómo pensás cubrir los costos de construcción?
+
+Mediante financiamiento privado; el autor recibiría con agrado ayuda económica de la facultad si estuviera disponible. El apoyo institucional aún no está confirmado.
+
+## ¿Cuál es el costo total estimado de los componentes?
+
+Aproximadamente 1.300.000; moneda pendiente de confirmar. Estimación del autor, sin detalle de componentes ni fecha de precios registrados.
+
+### Confirmación de moneda
+
+El costo estimado de los componentes es de aproximadamente ARS 1.300.000, según confirmó el autor.
+
+## 2.3 ¿Qué ofrece de especial el prototipo a docentes y estudiantes?
+
+Una herramienta integrable en múltiples materias para observar el comportamiento de un sistema mecatrónico, programarlo y realizar nuevos ensayos adaptados a las necesidades de cada asignatura.
+
+Estado: propuesta del autor; pendiente de contrastar con docentes y estudiantes.
+
+## ¿Qué más necesitás para llevar adelante el proyecto?
+
+La aprobación del proyecto, según indicó el autor.
+
+## 2.4 ¿Qué funciones mínimas debería tener para empezar a usarse en alguna materia?
+
+Sensado de corriente, movimiento de motores, sensores funcionales y comunicación; en general, casi todo lo planteado en el proyecto. El prototipo debería poder mejorarse según las necesidades de cada materia.
+
+Estado: funciones propuestas por el autor; alcance y funcionamiento pendientes de comprobar.
+
+## ¿Hay algún plazo o fecha objetivo para tenerlo listo?
+
+El autor desea tener el prototipo listo para junio de 2027. Es una meta, no un plazo confirmado.
+
+## 2.5 ¿Cómo presentarías el prototipo a los docentes?
+
+Presentarles algunas ideas de uso y llevarles el prototipo para que lo conozcan y evalúen utilizarlo.
+
+## 2.8 ¿Cómo evaluarías si el prototipo funciona y cumple su objetivo?
+
+El autor plantea comprobar el funcionamiento técnico durante el desarrollo y al terminarlo. La incorporación del prototipo por los docentes sería una señal de uso; evaluar si cumple su objetivo educativo requeriría observarlo a más largo plazo, después de estar listo.
+
+Estado: criterio propuesto; indicadores y método de evaluación pendientes de definir.
+
+### ¿Qué observarías para saber si los estudiantes lo están aprovechando?
+
+La aplicación del prototipo en las materias.
+
+## 2.9 ¿Qué hace al prototipo una buena opción frente a las herramientas existentes?
+
+Es un sistema integral que, según el autor, incluye las ramas de la carrera y permitiría observar cómo se integran y desarrollar ideas alrededor de ellas.
+
+Estado: ventaja propuesta por el autor; comparación con herramientas existentes pendiente.
+
+## ¿Qué información falta verificar antes de avanzar?
+
+El autor señala la factibilidad de realizar el proyecto por parte de la facultad. Queda pendiente consultar con la institución qué condiciones y aprobación serían necesarias.
+
+## ¿Qué te gustaría preguntarles a los estudiantes en la encuesta?
+
+Si el prototipo les resultaría útil, si les parece una buena propuesta y si estarían dispuestos a usarlo; si creen que la carrera mejoraría con más proyectos mecatrónicos prácticos; si perciben separación entre teoría y práctica y poca interacción entre los bloques de las materias. El autor considera que la mecatrónica requiere integrar esos pilares en la enseñanza.
+
+## 5.8 ¿Avanzarías con el plan o ajustarías algo antes?
+
+El autor avanzaría revisando componentes y la posibilidad de reducir costos si la financiación o el costo son una preocupación. Considera que, fuera de esa revisión, no prevé otro problema importante. La factibilidad y aprobación institucional siguen pendientes de consultar.
+
+## Trabajo futuro para la presentación
+
+El autor compartirá una referencia visual de una presentación con renders 3D y otra presentación que muestra cómo modelar el proyecto por secciones y etapas. También podría aportar una idea de modelo 3D y modelos CAD. A partir de esas referencias se proyecta desarrollar un diseño inicial poco detallado pero con apariencia fotorrealista y buen render, y preparar los prompts de las imágenes necesarias para presentar la idea. Algunas piezas podrían requerir modelado desde cero; las referencias y los archivos están pendientes de recibir.
+

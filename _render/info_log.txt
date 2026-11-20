@@ -1,0 +1,2 @@
+Blender 4.5.1 LTS (hash b0a72b245dcf built 2025-07-29 06:36:07)
+OBJ import of 'robot.obj' took 16.2 s

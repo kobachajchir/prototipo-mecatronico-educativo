@@ -1,0 +1,7 @@
+Blender 4.5.1 LTS (hash b0a72b245dcf built 2025-07-29 06:36:07)
+OBJ import of 'robot.obj' took 12.0 s
+Saved: 'D:\ProyectoFinal\planos\v_side.png'
+Time: 00:07.78 (Saving: 00:00.61)
+
+
+Blender quit

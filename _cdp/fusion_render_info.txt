@@ -1,0 +1,25 @@
+modelingOrientation=0
+design attrs: _get_renderManager, renderManager
+renderManager attrs: activateRenderWorkspace, cast, classType, inCanvasRendering, isRenderWorkspaceActive, isValid, lights, objectType, parentDesign, renderEnvironments, rendering, sceneSettings, this, thisown
+sceneSettings attrs: aspectRatio, aspectRatioHeight, aspectRatioWidth, backgroundEnvironment, backgroundSolidColor, backgroundType, brightness, cameraExposure, cameraFocalLength, cameraType, cast, centerOfFocus, classType, depthOfFieldBlur, groundOffset, groundPosition, groundRoughness, isDepthOfFieldEnabled, isGroundDisplayed, isGroundFlattened, isGroundReflections, isValid, lightAngle, objectType, restoreDefaults, saveAsDefaults, this, thisown
+  ss.aspectRatio = 0
+  ss.aspectRatioHeight = 0
+  ss.aspectRatioWidth = 0
+  ss.backgroundEnvironment err
+  ss.backgroundSolidColor = <class 'adsk.core.Color'>
+  ss.backgroundType = 1
+  ss.brightness = 1000.0
+  ss.cameraExposure = 9.526000022888184
+  ss.cameraFocalLength = 90.0
+  ss.cameraType = 0
+  ss.centerOfFocus = <class 'adsk.core.Point3D'>
+  ss.depthOfFieldBlur = 0.0
+  ss.groundOffset = 0.0
+  ss.groundPosition = <class 'adsk.core.Point3D'>
+  ss.groundRoughness = 0.10000000149011612
+  ss.isDepthOfFieldEnabled = False
+  ss.isGroundDisplayed = False
+  ss.isGroundFlattened = True
+  ss.isGroundReflections = True
+  ss.lightAngle = -0.0
+cam eye (-1.7, 90.7, 10.7) target (-1.7, 0.0, 10.7) up (0.0, 0.0, -1.0)
