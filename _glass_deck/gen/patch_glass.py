@@ -101,6 +101,10 @@ src = rep(src,
 web = open(os.path.join(here, 'web_slides.js'), encoding='utf-8').read()
 anchor = "{\n  const s = base('Sensores y control: cómo se conecta todo'"
 src = rep(src, anchor, web + anchor)
+lidar = open(os.path.join(here, 'lidar_slide.js'), encoding='utf-8').read()
+i = src.index("base('Cámara + LiDAR: reconstrucción conjunta'")
+j = src.rindex("{\n", 0, i)
+src = src[:j] + lidar + src[j:]
 src = rep(src, "'Control manual, estado de sensores y alertas'", "'Muestra la interfaz web del robot: control, sensores y alertas'")
 
 # ---------- data that changed in the CAD (20/11/2026) ----------

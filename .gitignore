@@ -30,3 +30,6 @@ _glass_deck/gen/bg.png
 Thumbs.db
 desktop.ini
 ~$*
+
+# Máscaras auxiliares de composición
+*_mask.png
